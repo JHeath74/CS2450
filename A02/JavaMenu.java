@@ -47,8 +47,5 @@ public class JavaMenu
             }while (Continue.equalsIgnoreCase("Yes"));              
          
          }
-     //  public static void menuPrompt()
-// 	    {   
-// 	      System.out.print("Please enter a letter to guess: )");
-//        }
+
 }
